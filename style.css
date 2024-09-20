@@ -4,8 +4,8 @@ body {
 
 h1 {
     position: relative;
-    left: 700px;
-    top: 300px;
+    left: 400px;
+    top: 250px;
     border: 1px solid black;
     padding: 100px;
     width: fit-content;
